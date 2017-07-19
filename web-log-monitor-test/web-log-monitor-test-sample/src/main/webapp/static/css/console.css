@@ -1,0 +1,66 @@
+@CHARSET "UTF-8";
+
+/*页面主题样式*/
+
+.main {
+	width: 100%;
+	height: 100%;
+}
+
+
+/* 页面顶部  */
+
+.title {
+	width: 99%;
+	height: 40px;
+	margin: 10px;
+	background: #FFFFFF;
+}
+
+.logo {
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin: 10px 10px 0px 10px;
+}
+
+.sprain-point {
+	width: 60%;
+	height: 100%;
+	float: left;
+	margin: 5px;
+}
+
+#sprain-point {
+	margin: 30px 5px 2px 5px;
+}
+
+
+/*日志样式控制 */
+
+.logs-content {
+	width: 99%;
+	height: 900px;
+	margin: 10px;
+	color: #DDDDDD;
+	background: #000000;
+	overflow: auto;
+	border: 0;
+}
+
+.log {
+	width: 99%;
+	height: auto;
+	margin: 3px 0px;
+	float: left;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Verdana, Arial, Simsun;
+	line-height: 18px;
+}
+
+.sprain-line {
+	margin: 10px;
+	float: left;
+}
